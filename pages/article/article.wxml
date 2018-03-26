@@ -1,0 +1,5 @@
+<view class="container">
+    <view class="title"><text>{{title}}</text></view>
+    <view class="author"><text>作者：{{author}}</text></view>
+    <view class="content"><text>{{content}}</text></view>
+</view>

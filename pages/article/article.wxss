@@ -1,0 +1,19 @@
+.container{
+    padding: 40rpx;
+    /*background: #000;*/
+}
+.title{
+    font-size: 45rpx;
+    font-weight: bold;
+    text-align: center;
+}
+.author{
+    margin-top: 30rpx;
+    font-size: 35rpx;
+    color: #333;
+}
+.content{
+    margin-top: 30rpx;
+    font-size: 32rpx;
+    color: #666;
+}
